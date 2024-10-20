@@ -1,0 +1,32 @@
+{
+  "name": "oathstone",
+  "version": "1.0.2",
+  "description": "A Solidty Smart Contract Cloud Deployment CLI.",
+  "main": "index.js",
+  
+  "bin": {
+    "oathstone": "./index.js"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Babalola Tobi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "prompts": "^2.4.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
+
+
+
+
+
+
+
+
