@@ -1,13 +1,11 @@
 {
   "name": "oathstone",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "A Solidty Smart Contract Cloud Deployment CLI.",
   "main": "index.js",
-  
   "bin": {
     "oathstone": "./index.js"
   },
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,11 +20,3 @@
     "qrcode-terminal": "^0.12.0"
   }
 }
-
-
-
-
-
-
-
-
