@@ -13,6 +13,8 @@
 - **QR Code Generation**: Generate a QR code for your deployed contract's CeloScan URL after successful deployment.
 - **Template System**: Kickstart your contract development with pre-built templates.
 
+
+
 ---
 
 ## Installation
@@ -75,27 +77,35 @@ Select a template when you initialize a project, and it will generate the approp
 
 ---
 
+---
+
+## Contribute
+
+To contribute to this repo take the following steps
+
+Step 1
+Clong this Repo
+
+Step 2
+npm install
+
+Step 3
+node index.js
+
+Step 4
+node link
+
+Step 5
+oathstone
+
+
+Once youre done making your changes, make a pull request. 
+
+
+---
+
+
+
 License
 OATHSTONE is licensed under the MIT License. See the LICENSE file for more details.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
