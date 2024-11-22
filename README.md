@@ -1,4 +1,4 @@
-![OATHSTONE](https://oathstone.cloud/logo.jpg)
+![OATHSTONE](https://drive.google.com/file/d/1_A3lLe32y3leoj3QUe3O0-ANgsUHzRD8/view?usp=sharing)
 
 # OATHSTONE V2
 
