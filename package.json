@@ -1,6 +1,6 @@
 {
   "name": "oathstone",
-  "version": "2.1.1",
+  "version": "2.1.4",
   "description": "A Solidty Smart Contract Cloud Deployment CLI.",
   "main": "index.js",
   "bin": {

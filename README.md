@@ -2,7 +2,7 @@
 
 # OATHSTONE V2
 
-**Welcome to OATHSTONE V@**, a powerful CLI tool designed for developers to easily deploy smart contracts on the Celo blockchain. OATHSTONE simplifies the process of managing and deploying Solidity contracts, offering an intuitive interface and useful features like QR code generation for quick access to deployed contracts.
+**Welcome to OATHSTONE V2**, a powerful CLI tool designed for developers to easily deploy smart contracts on the Celo blockchain. OATHSTONE simplifies the process of managing and deploying Solidity contracts, offering an intuitive interface and useful features like QR code generation for quick access to deployed contracts.
 
 ---
 
@@ -13,17 +13,15 @@
 - **QR Code Generation**: Generate a QR code for your deployed contract's CeloScan URL after successful deployment.
 - **Template System**: Kickstart your contract development with pre-built templates.
 - **AI Assisted Constructor Argument Suggestion**: Users no longer have to be confused on how best to format their Constructor Arguments. Every deploy instance now come to helpful suggestion on what your constructor argument should be based on your Solidty Codes
-- **AI Defender**: OathStone now comes built in with a powerful AI Defender that checks your conde for best practices and gives suggestions on how to improve it. It also checks to see if your code does not have any vulnerablity that may cost you dearly when you deploy to Mainnet. With OathStone you can now be sure those line of code does or does not meet glocal standards. 
+- **AI Defender**: OathStone now comes built in with a powerful AI Defender that checks your conde for best practices and gives suggestions on how to improve it. It also checks to see if your code does not have any vulnerablity that may cost you dearly when you deploy to Mainnet. With OathStone you can now be sure those line of code does or does not meet glocal standards.
+- **Package Manager**: Now its super easy to import Solidty Contracts from your favourite repositories (OpenZeppelin & Chainlink) and use it within your Oathstone Porject. With this feaure you only need to import the exact Solidty Contracts you need and not the entire library. 
+- **Imporved Constructor Argument**: With the latest change you are no longer restricted to a single Constructor Argument, you can now use as many as your project requires. 
 
-
----
 
 ## Installation
 
-Use OATHSTONE directly via `npx` without needing a global installation:
-
-```bash
 npm install -g oathstone
+
 
 ---
 
@@ -86,6 +84,12 @@ For support contact me at graderng@gmail.com with the Subject title "Oath Stone 
 
 License
 OATHSTONE is licensed under the MIT License. See the LICENSE file for more details.
+
+
+
+
+
+
 
 
 

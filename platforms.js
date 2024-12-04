@@ -4,14 +4,14 @@
 const platforms = [
   {
     name: 'Celo',
-    endpoint: 'http://98.81.115.1:3000/celo',
+    endpoint: 'http://api.oathstone.cloud/celo',
     testnet: 'Celo Alfajores Testnet',
     mainnet: 'Celo Mainnet',
     price: 'http://98.81.115.1:3000/celoPrice'
   },
   {
     name: 'Ethereum',
-    endpoint: 'http://98.81.115.1:3000/eth',
+    endpoint: 'http://api.oathstone.cloud/eth',
     testnet: 'Ethereum Sepolia Testnet',
     mainnet: 'Ethereum Mainnet',
     price: 'http://98.81.115.1:3000/ethPrice'
@@ -20,6 +20,11 @@ const platforms = [
 ];
 
 module.exports = platforms;
+
+
+
+
+
 
 
 
